@@ -10,3 +10,4 @@
 
    ```bash
    mvn clean compile exec:java -Dexec.args="YOUR_SHEET_ID"
+8. Wait util the termial show this message "Data written to Google Sheet successfully.", then your sheets is fill with data!
